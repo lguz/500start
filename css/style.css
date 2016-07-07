@@ -416,6 +416,15 @@ h2 {
   line-height: 1.6;
 }
 
+@media (max-width:720px) {
+  .text-wrap  {
+    width: 90%;
+    margin: 0 auto;
+    font-size: 1.4em;
+    line-height: 1.6;
+  }
+}
+
 .text-wrap p {
   margin-top: 4%;
 }
